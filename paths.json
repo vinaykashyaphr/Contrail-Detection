@@ -1,0 +1,6 @@
+{
+    "image_data": "/content/data/contrails/",
+    "training_data": "/content/data/train_df.csv",
+    "validation_data": "/content/data/valid_df.csv",
+    "output_dir": "/content/out"
+}
