@@ -34,3 +34,6 @@ A modified UNet archetecture with decreased convolution blocks and added convtra
 2. Std no. of epochs - 15
 3. Maximum dice - 0.6457
 
+# License
+This project is licensed under the [MIT License](LICENSE).
+
